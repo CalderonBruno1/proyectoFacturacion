@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: BRUNO
+Build-Jdk: Azul Zulu version 13.0.10
+Implementation-Title: proyectoFacturacion
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.factura
+Main-Class: ${start-class}
+
